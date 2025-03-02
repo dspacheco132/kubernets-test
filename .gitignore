@@ -1,0 +1,8 @@
+./logs/erro.log
+./logs/info.log
+./logs/warn.log
+./logs/debug.log
+./logs/trace.log
+./logs/fatal.log
+./logs/audit.log
+./logs/web.log
