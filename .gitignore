@@ -6,3 +6,4 @@
 ./logs/fatal.log
 ./logs/audit.log
 ./logs/web.log
+logs/
